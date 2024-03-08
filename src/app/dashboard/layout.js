@@ -1,5 +1,3 @@
-export default function DashboardLayout({
-  children, // will be a page or nested layout
-}) {
+export default function DashboardLayout({ children }) {
   return <section>{children}</section>;
 }
