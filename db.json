@@ -1,0 +1,34 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "name": "Casual Sneakers",
+      "price": 49.99,
+      "description": "Comfortable sneakers for everyday wear."
+    },
+    {
+      "id": 2,
+      "name": "Athletic Running Shoes",
+      "price": 79.99,
+      "description": "Performance-oriented shoes for running and training."
+    },
+    {
+      "id": 3,
+      "name": "Leather Boots",
+      "price": 99.99,
+      "description": "Stylish leather boots suitable for various occasions."
+    },
+    {
+      "id": 4,
+      "name": "Canvas Slip-Ons",
+      "price": 29.99,
+      "description": "Easy-to-wear slip-ons for casual outings."
+    },
+    {
+      "id": 5,
+      "name": "Formal Dress Shoes",
+      "price": 129.99,
+      "description": "Elegant dress shoes perfect for formal events."
+    }
+  ]
+}
