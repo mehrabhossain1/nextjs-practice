@@ -2,13 +2,13 @@
   "shoes": [
     {
       "id": 1,
-      "name": "Casual Sneakers",
+      "name": "Casual Sneakers up",
       "price": 49.99,
       "description": "Comfortable sneakers for everyday wear."
     },
     {
       "id": 2,
-      "name": "Athletic Running Shoes",
+      "name": "Athletic Running Shoes upp",
       "price": 79.99,
       "description": "Performance-oriented shoes for running and training."
     },
